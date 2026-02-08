@@ -19,16 +19,7 @@ Unlike typical NFT projects focused on trading and speculation, Little Moments i
 
 **Consumer & Entertainment** - Building tools that create meaningful experiences for families.
 
-## 📸 Screenshots
 
-### Home Page
-![Home](https://via.placeholder.com/600x400/fffbf5/ed751b?text=Home+Page)
-
-### Create Memory Flow
-![Create](https://via.placeholder.com/600x400/fffbf5/ed751b?text=Create+Memory)
-
-### Memory Gallery
-![Gallery](https://via.placeholder.com/600x400/fffbf5/ed751b?text=Gallery)
 
 ## ⚡ Quick Start
 
